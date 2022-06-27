@@ -1,0 +1,4 @@
+for i = 1, 1000 do
+game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = i
+wait(1)
+end
